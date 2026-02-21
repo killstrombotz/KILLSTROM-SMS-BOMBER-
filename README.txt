@@ -1,0 +1,14 @@
+# WEBSITE CODE EXTRACTION REPORT
+
+Website: https://wolfintelligencee.pages.dev/
+Extraction Date: 2026-02-20 21:34:54
+
+## Summary:
+- HTML FILES: 1
+- CSS FILES: 2
+- JAVASCRIPT FILES: 0
+- PHP FILES: 3
+- API ENDPOINTS: 1
+- WORKERS.DEV URLs: 0
+
+⚡ POWERED BY OLD-STUDIO
